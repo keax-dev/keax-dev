@@ -92,4 +92,5 @@ Production-oriented web application developed for a flower export business.
 - Runtime configuration
 - Automated testing and CI/CD
 
-[Repository](https://github.com/keax-dev/mayte-flowers)
+[Repository](https://github.com/keax-dev/mayte-flowers) ·
+[Live](https://alxgarden.com/about-us)
